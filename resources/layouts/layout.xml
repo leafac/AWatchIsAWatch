@@ -1,0 +1,7 @@
+<layout id="WatchFace">
+    <label id="Date"            x="center" y="10%"    font="Graphics.FONT_LARGE"           justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="HoursAndMinutes" x="center" y="center" font="Graphics.FONT_NUMBER_THAI_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="Seconds"         x="center" y="63%"    font="Graphics.FONT_MEDIUM"          justification="Graphics.TEXT_JUSTIFY_LEFT"   />
+    <label id="DayOfTheWeek"    x="center" y="75%"    font="Graphics.FONT_LARGE"           justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="Battery"         x="center" y="90%"    font="Graphics.FONT_XTINY"           justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>
